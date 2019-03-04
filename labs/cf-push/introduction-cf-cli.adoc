@@ -1,6 +1,6 @@
 = Introduction to CF CLI
 
-- Change the working directory to be _devops-workshop/labs/samples_
+- Change the working directory to be _devops-workshop/sample-code_
 +
 Note the sub-directories present..
 +

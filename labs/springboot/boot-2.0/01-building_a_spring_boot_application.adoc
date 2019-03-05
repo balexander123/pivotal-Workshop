@@ -10,7 +10,7 @@ While we could visit https://start.spring.io to create a new Spring Boot project
 
 . Change the working directory to be _pivotal-workshop/labs/my_work/cloud-native-spring_
 +
-  cd /pivotal-workshop/labs/springboot/my_work/cloud-native-spring
+  cd /pivotal-workshop/labs/springboot/boot-2.0/my_work/cloud-native-spring
 
 . Open this project in your editor/IDE of choice.
 
